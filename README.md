@@ -1,5 +1,5 @@
 # CSC14116 - Group 7 - Parallel Collaborative Filtering Recommender System
-**Member**: Đăng Hoàn Mỹ - 191272216  
+**Member**: Đăng Hoàn Mỹ - 19127216  
 
 **Course**: CSC14116 - Applied Parallel Programming  
 
